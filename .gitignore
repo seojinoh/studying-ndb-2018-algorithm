@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,eclipse,intellij,visualstudiocode,java,maven,gradle,git
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,eclipse,intellij,visualstudiocode,java,maven,gradle,git
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,java,maven,gradle,eclipse,intellij,visualstudiocode,git
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,java,maven,gradle,eclipse,intellij,visualstudiocode,git
 
 ### Eclipse ###
 .metadata
@@ -348,4 +348,4 @@ gradle-app.setting
 # Eclipse Core
 # JDT-specific (Eclipse Java Development Tools)
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,eclipse,intellij,visualstudiocode,java,maven,gradle,git
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,java,maven,gradle,eclipse,intellij,visualstudiocode,git
